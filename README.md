@@ -17,7 +17,7 @@ This app allows **two players** to play on the same device with animations, win 
 ---
 
 ## Screenshots 📱
-![Tic-Tac-Toe Screenshot](tic_tec_toe.jpg)   
+![Tic-Tac-Toe Screenshot](tic_tac_teo.jpg)   
 
 *(Optional: Replace with your actual screenshots.)*
 
