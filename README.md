@@ -1,16 +1,62 @@
-# tic_tac_toe
+# Tic-Tac-Toe Flutter App 🎮
 
-A new Flutter project.
+A simple **Tic-Tac-Toe game** built using **Flutter & GetX** for Android & iOS.  
+This app allows **two players** to play on the same device with animations, win highlights, undo, and restart features.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features ✨
+- Two-player game on the same device  
+- 3×3 grid UI with current player display (X or O)  
+- Detects and indicates a **win** or a **draw**  
+- **Undo** last move, **Restart** board, **Reset scores**  
+- Confetti and glow animation on win  
+- Fully **responsive** UI for all screen sizes  
+- Professional and polished design  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots 📱
+![Screenshot 1](screenshots/screen1.png)  
+![Screenshot 2](screenshots/screen2.png)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*(Optional: Replace with your actual screenshots.)*
+
+---
+
+## How to Run 🏃‍♂️
+1. Clone the repo:  
+```bash
+git clone https://github.com/waseyjamal/flutter_tic_tac_toe_assignment.git
+cd flutter_tic_tac_toe_assignment
+Install dependencies:
+
+bash
+Copy code
+flutter pub get
+Run on your device or emulator:
+
+bash
+Copy code
+flutter run
+Tech Stack 🛠
+Flutter (Dart)
+
+GetX for state management
+
+Confetti package for win animations
+
+Extra Notes 💡
+Tested on mobile & tablet devices
+
+Fully responsive and polished UI
+
+Ready for demo recording submission
+
+Demo Video 🎥
+Click here to watch demo
+
+Author 👨‍💻
+Wasey Jamal
+
+GitHub: https://github.com/waseyjamal
