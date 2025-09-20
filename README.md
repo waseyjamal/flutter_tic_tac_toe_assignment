@@ -17,8 +17,7 @@ This app allows **two players** to play on the same device with animations, win 
 ---
 
 ## Screenshots 📱
-![Screenshot 1](screenshots/screen1.png)  
-![Screenshot 2](screenshots/screen2.png)  
+![Tic-Tac-Toe Screenshot](tic_tec_toe.png)   
 
 *(Optional: Replace with your actual screenshots.)*
 
@@ -53,8 +52,8 @@ Fully responsive and polished UI
 
 Ready for demo recording submission
 
-Demo Video 🎥
-Click here to watch demo
+## Demo Video
+[Watch Demo Video](tic_tec_toe-v.mp4)
 
 Author 👨‍💻
 Wasey Jamal
