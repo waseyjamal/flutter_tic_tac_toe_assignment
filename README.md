@@ -53,7 +53,7 @@ Fully responsive and polished UI
 Ready for demo recording submission
 
 ## Demo Video
-[Watch Demo Video](tic_tec_toe-v.mp4)
+[Watch Demo Video](tic_tec_toe.mp4)
 
 Author 👨‍💻
 Wasey Jamal
